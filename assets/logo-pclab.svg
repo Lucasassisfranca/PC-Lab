@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 184 56" width="184" height="56" role="img" aria-label="PC Lab">
+  <defs>
+    <linearGradient id="pcl-body" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2a5a96"/><stop offset="1" stop-color="#112844"/></linearGradient>
+    <linearGradient id="pcl-edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c5ced8"/><stop offset="1" stop-color="#6fa8e8"/></linearGradient>
+  </defs>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M19 4v6M28 4v6M37 4v6M19 46v6M28 46v6M37 46v6M4 19h6M4 28h6M4 37h6M46 19h6M46 28h6M46 37h6" stroke="#8fb8e8" stroke-width="2.2"/>
+    <rect x="10" y="10" width="36" height="36" rx="9" fill="url(#pcl-body)" stroke="url(#pcl-edge)" stroke-width="2.4"/>
+    <path d="M19.5 21 28 28l-8.5 7" stroke="#eef2f7" stroke-width="3.6"/>
+    <path d="M31.5 36H38" stroke="#8fb8e8" stroke-width="3.6"/>
+    <g transform="translate(0 -1)" stroke="#eef2f7" stroke-width="4">
+      <path d="M66 40V18h9a6.5 6.5 0 0 1 0 13h-9"/>
+      <path d="M105.8 21.2A11 11 0 1 0 105.8 36.8"/>
+    </g>
+    <g transform="translate(0 -1)" stroke="#8fb8e8" stroke-width="3">
+      <path d="M120 18v22h11"/>
+      <circle cx="143.5" cy="32.5" r="7.5"/><path d="M151 25v15"/>
+      <path d="M160 18v22"/><circle cx="167.5" cy="32.5" r="7.5"/>
+    </g>
+  </g>
+</svg>
