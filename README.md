@@ -10,8 +10,12 @@
     &nbsp;·&nbsp;
     <a href="https://github.com/lucasassisfranca/PC-Lab"><strong>Ver repositório</strong></a>
   </p>
+<<<<<<< HEAD
 
   <img src="assets/images/g6.jpeg" alt="Atividade prática de montagem de computador em laboratório" width="760">
+=======
+  
+>>>>>>> c87e44be5ced869347dc60ee45c63083f8097eb3
   <br>
   <sub>Aprendizado conectado à prática: montagem de um computador em laboratório.</sub>
 </div>
